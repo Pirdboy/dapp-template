@@ -7,6 +7,9 @@
         {
             "name":"react-app",
             "path": "./react-app"
+        },
+        {
+            "path":"."
         }
     ],
     "settings": {
